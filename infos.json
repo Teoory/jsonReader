@@ -1,0 +1,72 @@
+[
+        {
+          "_id": "1",
+          "_badge": " ",
+          "picture": "https://robohash.org/estetdicta.png?size=128x128&set=set1",
+          "name": "Hamilton",
+          "surname": "Horne",
+          "gender": "male",
+          "email": "hamiltonhorne@exposa.com",
+          "address": "Interlochen, Delaware"
+        },
+        {
+          "_id": "2",
+          "_badge": " ",
+          "picture": "https://robohash.org/dictanullarepudiandae.png?size=128x128&set=set1",
+          "name": "Cleveland",
+          "surname": "Dunn",
+          "gender": "male",
+          "email": "clevelanddunn@exposa.com",
+          "address": "Jennings, New Hampshire"
+        },
+        {
+          "_id": "3",
+          "_badge": "ADMİN",
+          "picture": "https://robohash.org/voluptatemetiste.png?size=128x128&set=set1",
+          "name": "Hillary",
+          "surname": "Adkins",
+          "gender": "female",
+          "email": "hillaryadkins@exposa.com",
+          "address": "Nicholson, Wisconsin"
+        },
+        {
+          "_id": "4",
+          "_badge": " ",
+          "picture": "https://robohash.org/quiquialaborum.png?size=128x128&set=set1",
+          "name": "Sharron",
+          "surname": "Ochoa",
+          "gender": "female",
+          "email": "sharronochoa@exposa.com",
+          "address": "Detroit, North Dakota"
+        },
+        {
+          "_id": "5",
+          "_badge": " ",
+          "picture": "https://robohash.org/etminusaut.png?size=128x128&set=set1",
+          "name": "Olivia",
+          "surname": "Mullins",
+          "gender": "female",
+          "email": "oliviamullins@exposa.com",
+          "address": "Delwood, Kansas"
+        },
+        {
+          "_id": "6",
+          "_badge": " ",
+          "picture": "https://robohash.org/doloremoptionon.png?size=128x128&set=set1",
+          "name": "Giles",
+          "surname": "Berry",
+          "gender": "male",
+          "email": "gilesberry@exposa.com",
+          "address": "Dixonville, North Carolina"
+        },
+        {
+          "_id": "7",
+          "_badge": "ADMİN",
+          "picture": "https://robohash.org/asperioressedvoluptates.png?size=128x128&set=set1",
+          "name": "Candace",
+          "surname": "Wiggins",
+          "gender": "female",
+          "email": "candacewiggins@exposa.com",
+          "address": "Carlton, Rhode Island"
+        }
+    ]

@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+}
+
+#cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.infoContent{
+    display: grid;
+    align-items: center;
+    justify-content: flex-start;
+    background: radial-gradient(circle at top left, #833ab4f5,#322727,#000000);
+    padding: 10px;
+    margin: 10px;
+    color: #fff;
+    border-radius: 10px;
+    max-width: 305px;
+    width: 100%;
+    border: solid 2px darkgoldenrod;
+    min-height: 310px;
+}
+
+#infoImg{
+    width: 75px;
+    background: #fff;
+    border: double 10px transparent;
+    border-radius: 50%;
+    background-image: linear-gradient(white, white), radial-gradient(circle at top left, #833ab4,#b12f7b,#fd1d1d,#fc7234,#fcb045);
+    background-origin: border-box;
+    background-clip: content-box, border-box;
+    border-width: 4px;
+}
+
+#info{
+    margin: 6px;
+    padding: 3px;
+    background: rgba(136, 174, 212, 0.15);
+    border: solid 1px darkgoldenrod;
+    border-radius: 3px;
+}
+
+.firstContent{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.secondContent{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+#badge{
+    justify-content: center;
+    /* color: rgb(249, 128, 128,1); */
+    color: rgb(128, 249, 223);
+    background-color: rgb(17, 24, 39,1);
+    border-style: solid;
+    border-width: 0.1px;
+    font-size: .75rem;
+    line-height: 1rem;
+    font-weight: 500;
+    padding: 3px 12px 3px 15px;
+    border-radius: 0.25rem;
+    letter-spacing: 3px;
+    -webkit-text-stroke: thin;
+}
+
+.footer{
+    padding: 1.5rem;
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(24, 24, 27, .9);
+    color: rgba(156, 163, 175, .5);
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+}
